@@ -1,7 +1,7 @@
 # E-commerce-Backend-G2
-This project is an E-commerce application developed as part of the MVP phase requirements for the TAP program.
+This project is an E-commerce application.
 It provides a backend API that supports user authentication, product management, and simulated payment processing. 
-The application is designed with scalability, modularity, and security in mind, using JWT for authentication, PostgreSQL for the database, and Redis for caching.
+The application is designed with scalability, modularity, and security, using JWT for authentication, PostgreSQL for the database, and Redis for caching.
 
 ### Technologies used:
 ```
